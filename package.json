@@ -1,0 +1,23 @@
+{
+  "name": "vue-payroll-management",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 4173"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.1",
+    "firebase": "^9.10.0",
+    "vue": "^3.2.38",
+    "vue-router": "^4.1.5",
+    "vuex": "^4.0.2",
+    "yup": "^0.32.11"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.0.3",
+    "sass": "^1.55.0",
+    "sass-loader": "^13.0.2",
+    "vite": "^3.0.9"
+  }
+}
